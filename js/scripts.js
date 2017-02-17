@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $("form.#tracksuggester").submit(function(event){
+  $("form #survey").submit(function(event){
 event.preventDefault();
 var frontback = $("input:radio[name=frontback]:checked").val();
 
