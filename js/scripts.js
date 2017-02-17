@@ -1,6 +1,6 @@
 $(document).ready(function(){
   $("form #survey").submit(function(event){
-event.preventDefault();
+
 var frontback = $("input:radio[name=frontback]:checked").val();
 
 if (frontback === "front"){
@@ -9,7 +9,7 @@ if (frontback === "front"){
 else if(frontback === "back"){
   $("#function").show();
 }
-
+event.preventDefault();
 });
 var cosize = $("cosize").val();
 
@@ -25,5 +25,6 @@ else if (cosize === "3"){
 else if (cosize === "4"){
   $("#freelance").show();
 }
+
 
 });
