@@ -3,19 +3,21 @@
 }
 
 .par1{
-
+  background-color: #90cff4;
+  font-family: verdana;
+  font-size: 20px;
 }
 
 .par2{
-
-}
-
-.survtitle{
-
+  background-color: #90cff4;
+  font-family: verdana;
+  font-size: 20px;
 }
 
 .par3{
-
+  background-color: #90cff4;
+  font-family: verdana;
+  font-size: 20px;
 }
 
 .par4, {
@@ -24,6 +26,15 @@
 
 .par5{
 
+}
+#bold{
+  font-weight: bold;
+}
+
+#midtitle{
+  font-family: helvetica;
+  font weight: bold;
+  font-size: 60px;
 }
 
 #design, #function, #large ,#medium, #small, #freelance  {
