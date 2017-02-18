@@ -20,8 +20,10 @@
   font-size: 20px;
 }
 
-.par4, {
-
+.par4 {
+  background-color: #90cff4;
+  font-family: verdana;
+  font-size: 20px;
 }
 
 .par5{
@@ -29,12 +31,6 @@
 }
 #bold{
   font-weight: bold;
-}
-
-#midtitle{
-  font-family: helvetica;
-  font weight: bold;
-  font-size: 60px;
 }
 
 #design, #function, #large ,#medium, #small, #freelance  {
