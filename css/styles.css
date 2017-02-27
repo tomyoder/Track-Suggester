@@ -1,0 +1,58 @@
+
+.par1 {
+  background-color: #90cff4;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.par2 {
+  background-color: #90cff4;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.par3 {
+  background-color: #90cff4;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.par4 {
+  background-color: #90cff4;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.Csharp {
+  background-color: #90cff4;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.java {
+  background-color: #90cff4;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.php {
+  background-color: #90cff4;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.ruby {
+  background-color: #90cff4;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+
+#design, #function, #job, #large, #medium, #small, #freelance
+{
+  display: none;
+}
