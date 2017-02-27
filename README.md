@@ -8,7 +8,9 @@
 
 _{An app to help aspiring programmers find their way through choices of classes, languages, etc. using a survey to gather user input. Utilizes branching and other features and structures to satisfy assignment requirements
 
-  Github}_
+  Github:
+  https://github.com/tomyoder/Track-Suggester.git
+   https://tomyoder.github.io/Track-Suggester/}_
 
 
 ## Known Bugs
